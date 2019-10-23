@@ -1,1 +1,6 @@
-[]
+- path: toy-model-testing-data
+  name: toy-model-testing-data
+  rows: 341530
+  cols: 8
+  description: Testing data for toy ML pricing model.
+  type: table
