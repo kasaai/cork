@@ -1,0 +1,16 @@
+path:
+- https://github.com/kasaai/cork/releases/download/toy-model-testing-data-e848a42/data.csv
+- https://github.com/kasaai/cork/releases/download/toy-model-testing-data-e848a42/data.rds
+rows: 341530
+cols: 8
+columns:
+  sex: character
+  age_range: character
+  vehicle_age: numeric
+  make: character
+  vehicle_category: character
+  region: character
+  exposure: numeric
+  loss_per_exposure: numeric
+description: Testing data for toy ML pricing model.
+type: table
