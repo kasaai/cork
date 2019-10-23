@@ -1,0 +1,3 @@
+path: https://github.com/kasaai/cork/releases/download/toy_model-3f14ab8/data.rds
+description: Toy TensorFlow pricing model.
+type: default
