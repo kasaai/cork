@@ -4,3 +4,7 @@
   cols: 8
   description: Testing data for toy ML pricing model.
   type: table
+- path: toy_model
+  name: toy_model
+  description: Toy TensorFlow pricing model.
+  type: default
